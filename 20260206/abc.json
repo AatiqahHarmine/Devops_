@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Aatiqah Harmine",
+  "username": "Harmine",
+  "email": "abc@gmail.com",
+
+  "address": {
+    "street": "L.B.Nagar",
+     "city": "Warangal",
+    "zipcode": "506 002"
+  },
+
+  "phone": "9822445511",
+  "website": "SRU.org",
+  "company": 
+  {
+   "name": "Wipro",
+    "catchPhrase": "Multi-layered client-server neural-net" 
+  }
+}
